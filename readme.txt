@@ -23,7 +23,9 @@ files
     + controller/bashable.bash.inc - controller for this framework
  * logs - location of log files    
 
+External functions:
+ * logger - from https://github.com/nischithbm/bash-logger
+
 functions wish list:
- - logging
  - mailer
  - function tests
